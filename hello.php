@@ -5,8 +5,8 @@
 </head>
 <body>
 <?php
-	echo "<h1>here is some html</h1>";
-	echo "<p>hello".$_GET['name']. " ,PLEASED TO MEET YOU!</p>";
+    echo "<h1>Here is some HTML</h1>";
+    echo "<p>Hello".$_GET['name']. " ,pleased to meet you!</p>";
 ?>
 </body>
 </html>
